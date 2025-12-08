@@ -256,7 +256,7 @@ form {
 
 input, textarea {
     padding: 0.5rem;
-    border: 1px solid #5A646F;
+    border: 1px solid #151515;
     border-radius: 4px;
     font-size: 1rem;
 }
@@ -333,7 +333,7 @@ footer {
     padding: 0.75rem;
     border: 1px solid #ccc;
     text-align: left;
-      color: black;
+    color: #151515;
   }
   
   /* --- Versión móvil accesible --- */
